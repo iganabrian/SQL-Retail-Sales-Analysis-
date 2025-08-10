@@ -238,12 +238,19 @@ SELECT
 ## Project Findings After Data Cleaning and Analysis
 
 --**There is a total of `1,987` sales**
+
 --**There are `155` Customers**
+
 --**There are `3` categories**
+
 --**The 3 `Categories are: Electronics, Clothing & Beauty`**
+
 --**The Total Sales `908,230`**
+
 --**The Max Sales `2000`, Min Sales `25` Avg Sales `457.09`**
+
 - **High-Value Transactions**: Several transactions had a total sale amount greater than 1000, indicating premium purchases.
+  
 - **Sales Trends**: Monthly analysis shows variations in sales, helping identify peak seasons.
 
 ## Conclusion
